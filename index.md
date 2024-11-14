@@ -6,6 +6,8 @@ layout: default
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Adamkr.png" alt="Your Image Badge" />
 
+![SOC Level 1](https://github.com/adakrupp/adakrupp.github.io/blob/main/THM-PVSMW3CLUP.pdf)
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
