@@ -3,8 +3,8 @@ layout: default
 ---
 
 ### TryHackMe Stats:
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2480179" style='border:none;'></iframe>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/Adamkr.png" alt="Your Image Badge" />
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
