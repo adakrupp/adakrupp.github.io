@@ -12,5 +12,5 @@ layout: default
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Adamkr.png" alt="Your Image Badge" />
 
-## Projects
+## Projects:
 
