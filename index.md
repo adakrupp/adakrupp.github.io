@@ -6,7 +6,10 @@ layout: default
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Adamkr.png" alt="Your Image Badge" />
 
-![SOC Level 1](https://github.com/adakrupp/adakrupp.github.io/blob/main/THM-PVSMW3CLUP.pdf)
+### Certifications
+![CompTIA Security+](https://www.credly.com/badges/be397e3f-2e71-49bd-862a-00afd7594971/linked_in_profile)
+![Google Cybersecurity Certificate](https://www.credly.com/badges/be397e3f-2e71-49bd-862a-00afd7594971/linked_in_profile)
+![TryHackMe SOC Level 1](https://github.com/adakrupp/adakrupp.github.io/blob/main/THM-PVSMW3CLUP.pdf)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
