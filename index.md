@@ -9,10 +9,9 @@ layout: default
 ### Certifications
 
 <img src="https://images.credly.com/size/340x340/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" alt="Security+" width="200" height="200">
+<img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="Google CyberSecurity" width="200" height="200">
+<img src="https://assets.tryhackme.com/img/paths/SOCL1.svg" alt="TryHackMe SOC Level 1" width="200" height="200">
 
-![Security+](https://images.credly.com/size/340x340/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png)
-![Google CyberSecurity](https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)
-![TryHackMe Soc Level 1](https://assets.tryhackme.com/img/paths/SOCL1.svg)
 * [CompTIA Security+](https://www.credly.com/badges/be397e3f-2e71-49bd-862a-00afd7594971/linked_in_profile)
 * [Google Cybersecurity Certificate](https://www.credly.com/badges/be397e3f-2e71-49bd-862a-00afd7594971/linked_in_profile)
 * [TryHackMe SOC Level 1](https://github.com/adakrupp/adakrupp.github.io/blob/main/THM-PVSMW3CLUP.pdf)
