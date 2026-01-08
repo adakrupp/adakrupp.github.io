@@ -14,3 +14,4 @@ layout: default
 
 ## Projects:
 
+AI Voice Cloning (Made with Claude AI) - https://github.com/adakrupp/voice-cloning
