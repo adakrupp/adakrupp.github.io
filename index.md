@@ -15,4 +15,5 @@ layout: default
 ## Projects:
 
 [AI Voice Cloning (Made with Claude AI)](https://github.com/adakrupp/voice-cloning)
-[Self-hosted Cybersecurity Dashboard (Made with Claude AI)](https://github.com/adakrupp/cybersec-dashboard)
+
+[Self-hosted Cybersecurity News, Learning, and CVE Dashboard (Made with Claude AI)](https://github.com/adakrupp/cybersec-dashboard)
