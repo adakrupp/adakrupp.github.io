@@ -1,4 +1,4 @@
----
+sssssss---
 layout: default
 ---
 
@@ -14,4 +14,5 @@ layout: default
 
 ## Projects:
 
-AI Voice Cloning (Made with Claude AI) - https://github.com/adakrupp/voice-cloning
+[AI Voice Cloning (Made with Claude AI)](https://github.com/adakrupp/voice-cloning)
+[Self-hosted Cybersecurity Dashboard (Made with Claude AI)](https://github.com/adakrupp/cybersec-dashboard)
