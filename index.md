@@ -16,7 +16,7 @@ Welcome to my cybersecurity portfolio! I'm passionate about IT security, artific
     </a>
   </div>
   <div style="text-align: center; flex: 1; min-width: 200px;">
-    <a href="https://www.credly.com/badges/be397e3f-2e71-49bd-862a-00afd7594971/linked_in_profile" target="_blank">
+    <a href="https://www.credly.com/badges/f441b63c-bf28-4a87-9a85-bee15e51e265" target="_blank">
       <img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="Google Cybersecurity Badge" style="width:120px; height:auto; display:block; margin:0 auto;">
       <p><strong>Google Cybersecurity</strong></p>
     </a>
