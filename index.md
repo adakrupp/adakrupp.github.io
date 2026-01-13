@@ -1,19 +1,44 @@
-sssssss---
+---
 layout: default
 ---
 
-## Certifications:
+## About Me
 
-| <img src="https://images.credly.com/size/340x340/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" alt="Security+" style="width:10%; height:auto"> | [CompTIA Security+](https://www.credly.com/badges/be397e3f-2e71-49bd-862a-00afd7594971/linked_in_profile) |
-| <img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="Google CyberSecurity" style="width:10%; height:auto"> | [Google Cybersecurity Certificate](https://www.credly.com/badges/be397e3f-2e71-49bd-862a-00afd7594971/linked_in_profile) 
-| <img src="https://assets.tryhackme.com/img/paths/SOCL1.svg" alt="TryHackMe SOC Level 1" style="width:10%; height:auto"> | [TryHackMe SOC Level 1](https://tryhackme.com/p/Adamkr) |
+Welcome to my cybersecurity portfolio! I'm passionate about IT security, artificial intelligence, and protecting digital infrastructure. This portfolio showcases my certifications, projects, and continuous learning journey in the field of cybersecurity.
 
-## TryHackMe Stats:
+## Certifications
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Adamkr.png" alt="Your Image Badge" />
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
+  <div style="text-align: center; flex: 1; min-width: 200px;">
+    <a href="https://www.credly.com/badges/be397e3f-2e71-49bd-862a-00afd7594971/linked_in_profile" target="_blank">
+      <img src="https://images.credly.com/size/340x340/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" alt="Security+" style="width:120px; height:auto;">
+      <p><strong>CompTIA Security+</strong></p>
+    </a>
+  </div>
+  <div style="text-align: center; flex: 1; min-width: 200px;">
+    <a href="https://www.credly.com/badges/be397e3f-2e71-49bd-862a-00afd7594971/linked_in_profile" target="_blank">
+      <img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="Google CyberSecurity" style="width:120px; height:auto;">
+      <p><strong>Google Cybersecurity</strong></p>
+    </a>
+  </div>
+  <div style="text-align: center; flex: 1; min-width: 200px;">
+    <a href="https://tryhackme.com/p/Adamkr" target="_blank">
+      <img src="https://assets.tryhackme.com/img/paths/SOCL1.svg" alt="TryHackMe SOC Level 1" style="width:120px; height:auto;">
+      <p><strong>TryHackMe SOC Level 1</strong></p>
+    </a>
+  </div>
+</div>
 
-## Projects:
+## Featured Projects
 
-[AI Voice Cloning (Made with Claude AI)](https://github.com/adakrupp/voice-cloning)
+### [AI Voice Cloning](https://github.com/adakrupp/voice-cloning)
+Built with Claude AI - Advanced voice cloning application leveraging artificial intelligence for speech synthesis.
 
-[Self-hosted Cybersecurity News, Learning, and CVE Dashboard (Made with Claude AI)](https://github.com/adakrupp/cybersec-dashboard)
+### [Cybersecurity Dashboard](https://github.com/adakrupp/cybersec-dashboard)
+Built with Claude AI - Self-hosted platform for cybersecurity news aggregation, learning resources, and CVE tracking.
+
+---
+
+<p style="text-align: center; color: #666; font-size: 0.9em;">
+  View my <a href="https://tryhackme.com/p/Adamkr" target="_blank">TryHackMe profile</a> for hands-on security training progress.
+</p>
