@@ -31,6 +31,9 @@ Welcome to my cybersecurity portfolio! I'm passionate about IT security, artific
 
 ## Featured Projects
 
+### [AI Orchestration MCP Server](https://github.com/adakrupp/ai-orchestration-mcp)
+Production-grade Model Context Protocol (MCP) server for orchestrating multiple AI providers. Intelligently delegates tasks to local models (Ollama, llama.cpp) or cloud providers (OpenAI, Anthropic, Gemini) to optimize cost and performance. Features Docker deployment, comprehensive logging, request history tracking, and secure input validation. Available on [Docker Hub](https://hub.docker.com/r/adakrupp/ai-orchestration-mcp).
+
 ### [AI Voice Cloning](https://github.com/adakrupp/voice-cloning)
 Built with Claude AI - Advanced voice cloning application leveraging artificial intelligence for speech synthesis.
 
