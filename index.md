@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## About Me
+## Adam Kruppenbacher
 
 Welcome to my cybersecurity portfolio! I'm passionate about IT security, artificial intelligence, and protecting digital infrastructure. This portfolio showcases my certifications, projects, and continuous learning journey in the field of cybersecurity.
 
