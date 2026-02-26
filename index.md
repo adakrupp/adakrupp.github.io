@@ -31,6 +31,11 @@ Welcome to my cybersecurity portfolio! I'm passionate about IT security, artific
 
 ## Featured Projects
 
+### [Active Directory SOC Lab](https://github.com/adakrupp/Active-Directory-SOC-Lab/)
+A SOC lab project (courtesy of MyDFIR) featuring Windows Server 2022 and Active Directory Domain Services setup, a Windows 10 target machine, A Splunk Ubuntu Server, and a Kali Linux Machine, all done in a Proxmox virtual environment. A great project for Active Directory Domain Services, virtualization, virtual networking, cybersecurity, and more!
+
+## AI Projects:
+
 ### [AI Orchestration MCP Server](https://github.com/adakrupp/ai-orchestration-mcp)
 Production-grade Model Context Protocol (MCP) server for orchestrating multiple AI providers. Intelligently delegates tasks to local models (Ollama, llama.cpp) or cloud providers (OpenAI, Anthropic, Gemini) to optimize cost and performance. Features Docker deployment, comprehensive logging, request history tracking, and secure input validation. Available on [Docker Hub](https://hub.docker.com/r/adakrupp/ai-orchestration-mcp).
 
