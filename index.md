@@ -31,7 +31,7 @@ Welcome to my cybersecurity portfolio! I'm passionate about IT security, artific
 
 ## Featured Projects
 
-### [Active Directory SOC Lab](https://github.com/adakrupp/Active-Directory-SOC-Lab/)
+### [Active Directory SOC Lab](https://github.com/adakrupp/Active-Directory-SOC-Lab/tree/main/Active%20Directory%20SOC%20Lab)
 A SOC lab project (courtesy of MyDFIR) featuring Windows Server 2022 and Active Directory Domain Services setup, a Windows 10 target machine, A Splunk Ubuntu Server, and a Kali Linux Machine, all done in a Proxmox virtual environment. A great project for Active Directory Domain Services, virtualization, virtual networking, cybersecurity, and more!
 
 ## AI Projects:
